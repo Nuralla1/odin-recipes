@@ -1,1 +1,2 @@
 # odin-recipes
+<--I am working on my frist project right now. It is basically a recipe site that will consist of main page and some pages with recipies linked to the main page. I will use such HTML knowledges as html boilerplate, links, images, headings, paragraphs and etc. which I've learned at this stage of the course.-->
